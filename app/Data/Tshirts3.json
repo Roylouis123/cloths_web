@@ -1,0 +1,42 @@
+[
+    {
+      "Position": "1",
+      "img1": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MSW9014-03-M36.webp?v=1698673725&width=488",
+      "img2": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MSW9014-01-M31.webp?v=1698673431&width=200 200w",
+      "name": "Hygge Beige Sweater",
+      "price": "399",
+      "size": ["S","M","L","XL"]
+    },
+    {
+      "Position": "2",
+      "img1": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/9127.webp?v=1698673584&width=488",
+      "img2": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/9127.webp?v=1698673584&width=200 200w",
+      "name": "Hygge Beige Sweater",
+      "price": "399",
+      "size": ["S","M","L","XL"]
+    },
+    {
+      "Position": "3",
+      "img1": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MSW9014-01-M31.webp?v=1698673431&width=488",
+      "img2": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MSW9014-03-M36.webp?v=1698673725&width=200 200w",
+      "name": "Hygge Blue Sweater",
+      "price": "399",
+      "size": ["S","M","L","XL"]
+    },
+    {
+      "Position": "4",
+      "img1": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MSW9014-03-M36.webp?v=1698673725&width=488",
+      "img2": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MSW9014-04-M24.webp?v=1698673854&width=200 200w", 
+      "name": "Hygge Black Sweater",
+      "price": "399",
+      "size": ["S","M","L","XL"]
+    },
+    {
+      "Position": "5",
+      "img1": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MSW9014-04-M24.webp?v=1698673854&width=488",
+      "img2": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MSW9014-04-M24.webp?v=1698673854&width=200 200w", 
+      "name": "Hygge Black Sweater",
+      "price": "399",
+      "size": ["S","M","L","XL"]
+    }
+  ]

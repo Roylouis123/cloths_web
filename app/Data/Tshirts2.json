@@ -1,0 +1,42 @@
+[
+    {
+      "Position": "1",
+      "img1": "https://www.snitch.co.in/cdn/shop/files/4MSCR7249-02-M17.jpg?v=1689789669",
+      "img2": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MSW9014-01-M31.webp?v=1698673431&width=200 200w",
+      "name": "Hygge Beige Sweater",
+      "price": "399",
+      "size": ["S","M","L","XL"]
+    },
+    {
+      "Position": "2",
+      "img1": "https://www.snitch.co.in/cdn/shop/files/4MSS2189-02-M25.jpg?v=1689829892",
+      "img2": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/9127.webp?v=1698673584&width=200 200w",
+      "name": "Hygge Beige Sweater",
+      "price": "399",
+      "size": ["S","M","L","XL"]
+    },
+    {
+      "Position": "3",
+      "img1": "https://www.snitch.co.in/cdn/shop/files/4MSS1586-12-M36.jpg?v=1698131332",
+      "img2": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MSW9014-03-M36.webp?v=1698673725&width=200 200w",
+      "name": "Hygge Blue Sweater",
+      "price": "399",
+      "size": ["S","M","L","XL"]
+    },
+    {
+      "Position": "4",
+      "img1": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MSS2189-01-M25.jpg?v=1689828906&width=500",
+      "img2": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MSW9014-04-M24.webp?v=1698673854&width=200 200w", 
+      "name": "Hygge Black Sweater",
+      "price": "399",
+      "size": ["S","M","L","XL"]
+    },
+    {
+      "Position": "5",
+      "img1": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MSW9014-04-M24.webp?v=1698673854&width=488",
+      "img2": "https://cdn.shopify.com/s/files/1/0420/7073/7058/files/4MSW9014-04-M24.webp?v=1698673854&width=200 200w", 
+      "name": "Hygge Black Sweater",
+      "price": "399",
+      "size": ["S","M","L","XL"]
+    }
+  ]
