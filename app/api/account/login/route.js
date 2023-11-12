@@ -16,9 +16,7 @@ export async function POST(req,res) {
 
         const token = jwt.sign({ email }, 'your-secret-key', { expiresIn: '1d' });
         
-
         cookies().set("token",token);
-
 
         return NextResponse.json({ message: "Successful login!" },{ status: 200 });
     } else {

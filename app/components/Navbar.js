@@ -1,6 +1,11 @@
+import axios from "axios";
 import React from "react";
 
 const Navbar = () => {
+
+  const handleLogout = () => {
+    axios.get('/api/account/logout')
+  }
   return (
     <>
       <div className="text-sm bg-black text-cyan-50 align-middle flex justify-center h-10 p-3">
@@ -39,6 +44,7 @@ const Navbar = () => {
               strokeWidth={1.5}
               stroke="currentColor"
               className="w-6 h-6"
+              onClick={handleLogout}
             >
               <path
                 strokeLinecap="round"
