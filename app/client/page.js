@@ -73,7 +73,7 @@ const page = () => {
             key={index}
             onClick={() => handleClick(index)}
             style={{ boxShadow: '0px 4px 4px rgba(0, 0, 0, 0.5)' }}
-            className={`text-sm w-20 h-10 rounded-[50px] shadow hover:bg-gradient-to-r hover:from-orange-500 hover:via-orange-500 hover:to-fuchsia-700 ${selectedButton === index ? 'text-white text-sm bg-gradient-to-r from-orange-500 via-orange-500 to-fuchsia-700' : ' text-sm text-black bg-gradient-to-r from-zinc-100 to-zinc-100 '} outline-none`}        >
+            className={`text-sm w-16 h-10 rounded-[50px] shadow hover:bg-gradient-to-r hover:from-orange-500 hover:via-orange-500 hover:to-fuchsia-700 ${selectedButton === index ? 'text-white text-sm bg-gradient-to-r from-orange-500 via-orange-500 to-fuchsia-700' : ' text-sm text-black bg-gradient-to-r from-zinc-100 to-zinc-100 '} outline-none`}        >
             {button}
         </button>
     ))}
@@ -145,7 +145,7 @@ const page = () => {
             key={index}
             onClick={() => handleClickThird(index)}
             style={{ boxShadow: '0px 4px 4px rgba(0, 0, 0, 0.5)' }}
-            className={`text-sm w-20 h-10 rounded-[50px] shadow hover:bg-gradient-to-r hover:from-orange-500 hover:via-orange-500 hover:to-fuchsia-700 ${selected3Button === index ? 'text-white text-sm bg-gradient-to-r from-orange-500 via-orange-500 to-fuchsia-700' : ' text-sm text-black bg-gradient-to-r from-zinc-100 to-zinc-100 '} outline-none`}        >
+            className={`text-sm w-16 h-10 rounded-[50px] shadow hover:bg-gradient-to-r hover:from-orange-500 hover:via-orange-500 hover:to-fuchsia-700 ${selected3Button === index ? 'text-white text-sm bg-gradient-to-r from-orange-500 via-orange-500 to-fuchsia-700' : ' text-sm text-black bg-gradient-to-r from-zinc-100 to-zinc-100 '} outline-none`}        >
             {button}
         </button>
     ))}
